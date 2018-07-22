@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="lvlOne"
+    errors="0" failures="1" hostname="" id="" package="lvlOne" skipped="0"
+    tests="2" time="13.03" timestamp="Sun, 22 Jul 2018 21:09:13 GMT">
+  
+    <testcase name="login" classname="lvlOne" time="8.221" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Decks" classname="lvlOne" time="4.804" assertions="3">
+
+    
+
+      <failure message="Timed out while waiting for element &lt;@dkPlusAgain&gt; to be present for 1000 milliseconds.">    at Object.Decks (C:\Users\Maximus Prime\Desktop\QA-Mountain\Cards\test\lvlOne.js:39:14)
+    at process._tickCallback (internal/process/next_tick.js:150:11)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
